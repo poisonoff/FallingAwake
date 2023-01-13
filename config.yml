@@ -74,7 +74,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Falling Awake"
-    Content: Welcome to my blog
+    Content: Welcome to my world
 
   socialIcons:
     - name: twitter
