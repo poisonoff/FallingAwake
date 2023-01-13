@@ -1,5 +1,5 @@
-baseURL: "https://examplesite.com/"
-title: ExampleSite
+baseURL: "https://fallingawake.netlify.app"
+title: FallingAwake
 paginate: 5
 theme: PaperMod
 
@@ -73,16 +73,12 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
+    Title: "Falling Awake \U0001F44B"
     Content: Welcome to my blog
 
   socialIcons:
     - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
-    - name: github
-      url: "https://github.com/"
+      url: "https://twitter.com/arktika0"
 
   analytics:
     google:
