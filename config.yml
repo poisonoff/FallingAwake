@@ -73,7 +73,7 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Falling Awake \U0001F44B"
+    Title: "Falling Awake"
     Content: Welcome to my blog
 
   socialIcons:
