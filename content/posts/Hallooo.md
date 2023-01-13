@@ -2,8 +2,7 @@
 title: "Hi"
 date: 2023-01-13T11:42:06+01:00
 draft: false
-Tags: TEST
-
+Tag: TEST
 ---
 
 **hugo速度超快**，目前为止这个blog中大概有十几篇文章，每次生成全站的速度都不超过10ms，也能做到实时预览，真是爽快！
